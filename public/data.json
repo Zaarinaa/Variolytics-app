@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Data 1",
+    "N2O": 25.5,
+    "CH4": 45.0,
+    "CO2": 18.2,
+    "flowRate": 3500,
+    "temperature": 22.5,
+    "date": "2024-08-01T07:00:00",
+    "device": "Device 1"
+  },
+  {
+    "name": "Data 2",
+    "N2O": 30.0,
+    "CH4": 50.0,
+    "CO2": 14.5,
+    "flowRate": 3200,
+    "temperature": 24.5,
+    "date": "2024-08-01T12:30:00",
+    "device": "Device 1"
+  },
+  {
+    "name": "Data 3",
+    "N2O": 20.5,
+    "CH4": 60.0,
+    "CO2": 12.8,
+    "flowRate": 3100,
+    "temperature": 23.0,
+    "date": "2024-08-01T13:00:00",
+    "device": "Device 1"
+  },
+  {
+    "name": "Data 4",
+    "N2O": 28.7,
+    "CH4": 38.4,
+    "CO2": 15.0,
+    "flowRate": 2900,
+    "temperature": 21.5,
+    "date": "2024-08-01T18:00:00",
+    "device": "Device 2"
+  },
+  {
+    "name": "Data 5",
+    "N2O": 35.3,
+    "CH4": 70.0,
+    "CO2": 10.0,
+    "flowRate": 4000,
+    "temperature": 28.0,
+    "date": "2024-09-02T06:00:00",
+    "device": "Device 2"
+  },
+  {
+    "name": "Data 6",
+    "N2O": 22.0,
+    "CH4": 55.0,
+    "CO2": 18.5,
+    "flowRate": 3300,
+    "temperature": 26.0,
+    "date": "2024-09-02T14:30:00",
+    "device": "Device 2"
+  },
+  {
+    "name": "Data 7",
+    "N2O": 40.0,
+    "CH4": 85.0,
+    "CO2": 12.0,
+    "flowRate": 4200,
+    "temperature": 25.0,
+    "date": "2024-09-03T16:00:00",
+    "device": "Device 3"
+  },
+  {
+    "name": "Data 8",
+    "N2O": 33.5,
+    "CH4": 40.0,
+    "CO2": 15.5,
+    "flowRate": 3500,
+    "temperature": 24.0,
+    "date": "2024-09-04T08:30:00",
+    "device": "Device 3"
+  },
+  {
+    "name": "Data 9",
+    "N2O": 27.0,
+    "CH4": 65.0,
+    "CO2": 17.2,
+    "flowRate": 3800,
+    "temperature": 27.0,
+    "date": "2024-10-05T09:00:00",
+    "device": "Device 3"
+  },
+  {
+    "name": "Data 10",
+    "N2O": 32.5,
+    "CH4": 53.0,
+    "CO2": 19.0,
+    "flowRate": 4100,
+    "temperature": 29.0,
+    "date": "2024-10-05T16:30:00",
+    "device": "Device 1"
+  },
+  {
+    "name": "Data 11",
+    "N2O": 29.0,
+    "CH4": 66.0,
+    "CO2": 15.0,
+    "flowRate": 3600,
+    "temperature": 24.0,
+    "date": "2024-11-10T14:30:00",
+    "device": "Device 1"
+  },
+  {
+    "name": "Data 12",
+    "N2O": 31.2,
+    "CH4": 72.0,
+    "CO2": 14.0,
+    "flowRate": 3000,
+    "temperature": 23.0,
+    "date": "2024-11-11T18:30:00",
+    "device": "Device 2"
+  },
+  {
+    "name": "Data 13",
+    "N2O": 27.8,
+    "CH4": 61.0,
+    "CO2": 12.5,
+    "flowRate": 3300,
+    "temperature": 21.5,
+    "date": "2024-12-12T10:00:00",
+    "device": "Device 2"
+  },
+  {
+    "name": "Data 14",
+    "N2O": 36.0,
+    "CH4": 78.0,
+    "CO2": 11.0,
+    "flowRate": 3900,
+    "temperature": 27.0,
+    "date": "2024-12-13T12:00:00",
+    "device": "Device 3"
+  },
+  {
+    "name": "Data 15",
+    "N2O": 33.0,
+    "CH4": 40.5,
+    "CO2": 15.8,
+    "flowRate": 3600,
+    "temperature": 25.0,
+    "date": "2024-12-14T14:00:00",
+    "device": "Device 3"
+  },
+  {
+    "name": "Data 16",
+    "N2O": 38.5,
+    "CH4": 65.0,
+    "CO2": 16.5,
+    "flowRate": 4200,
+    "temperature": 28.5,
+    "date": "2024-12-15T09:30:00",
+    "device": "Device 1"
+  },
+  {
+    "name": "Data 17",
+    "N2O": 26.5,
+    "CH4": 55.0,
+    "CO2": 13.0,
+    "flowRate": 3100,
+    "temperature": 22.0,
+    "date": "2024-12-15T11:30:00",
+    "device": "Device 1"
+  },
+  {
+    "name": "Data 18",
+    "N2O": 29.3,
+    "CH4": 58.0,
+    "CO2": 17.0,
+    "flowRate": 3500,
+    "temperature": 26.0,
+    "date": "2024-12-15T13:30:00",
+    "device": "Device 2"
+  }
+]
